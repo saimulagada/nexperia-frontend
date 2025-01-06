@@ -1,0 +1,33 @@
+{
+  "name": "emailapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.3.1",
+    "@mui/material": "^6.3.1",
+    "@tiptap/pm": "^2.11.0",
+    "@tiptap/react": "^2.11.0",
+    "@tiptap/starter-kit": "^2.11.0",
+    "axios": "^1.7.9",
+    "next": "15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.1",
+    "slate": "^0.112.0",
+    "slate-history": "^0.110.3",
+    "slate-react": "^0.112.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.3"
+  }
+}
